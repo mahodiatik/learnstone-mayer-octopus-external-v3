@@ -10,7 +10,7 @@ import pandas as pd
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TARGET_COURSES_JSON = "courses_warwick_2024-2025_2024-05-18T06:35:10.json"
+TARGET_COURSES_JSON = "courses_leeds_2024-2025_2024-05-27T10:03:11.json"
 
 
 if __name__ == "__main__":
