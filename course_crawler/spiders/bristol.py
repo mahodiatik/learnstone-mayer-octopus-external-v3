@@ -1,7 +1,6 @@
 """
-@Author: Michael Milinković
-@Date: 01.04.2023.
-"""
+@Author: Md Mahodi Atik Shuvo
+@Date: 29-05-2024"""
 
 import os
 import re
@@ -22,6 +21,7 @@ from scrapy.http import HtmlResponse
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
 from scrapy.utils.reactor import install_reactor
+import requests
 
 
 class BristolSpider(scrapy.Spider):
@@ -100,8 +100,10 @@ class BristolSpider(scrapy.Spider):
 
     def parse_english_language_requirement(self, response: HtmlResponse):
         soup = BeautifulSoup(response.body, 'html.parser', from_encoding='utf-8')
-
-        table = soup.find('button', text='English Language Proficiency Tests').find_next_sibling()
+        try:
+            table = soup.find('h2', text='English Language Proficiency Tests').find_next_sibling()
+        except:
+            table = soup.find('button', text='English Language Proficiency Tests').find_next_sibling()
         requirements = []
         for row in table.select('tr')[1:]:
             test = row.select('td')[0].text.strip()
@@ -128,19 +130,21 @@ class BristolSpider(scrapy.Spider):
         for course_card in seq(soup.select('.search-result--course'))\
                 .filter(lambda x: 'Taught' in x.select_one('.search-result__taxonomy').text):
             link = f"https://www.bristol.ac.uk{course_card.select_one('a')['href']}"
+            if "https://www.bristol.ac.uk/study/postgraduate/taught/" in link:
+                qualifications = self._get_qualifications(course_card)
 
-            qualifications = self._get_qualifications(course_card)
-
-            for qualification in qualifications:
-                yield scrapy.Request(
-                    url=link,
-                    callback=self.parse_course,
-                    dont_filter=True,
-                    meta={
-                        'qualification': qualification,
-                        'qualifications': qualifications,  # used for cleaning the title,
-                        'playwright': True
-                    })
+                for qualification in qualifications:
+                    yield scrapy.Request(
+                        url=link,
+                        callback=self.parse_course,
+                        dont_filter=True,
+                        meta={
+                            'qualification': qualification,
+                            'qualifications': qualifications,  # used for cleaning the title,
+                            'playwright': True
+                        })
+            else:
+                continue
 
     def _get_qualifications(self, tag: Tag) -> list[str]:
         try:
@@ -248,7 +252,7 @@ class BristolSpider(scrapy.Spider):
 
     def _get_entry_requirements(self, soup: BeautifulSoup) -> Optional[str]:
         try:
-            entry_requirements_block = soup.find("h2", text="Entry requirements")
+            entry_requirements_block = soup.find("section#entry-requirements")
             entry_requirements = entry_requirements_block.find_next().text.strip()
         except AttributeError:
             entry_requirements = None
@@ -305,6 +309,32 @@ class BristolSpider(scrapy.Spider):
                     'title': title,
                     'link': link
                 })
+            selector=soup.select("#uobcms-content  div.column.grid_8 li")
+            for i in selector:
+                try:
+                    linx=i.select_one("a")["href"]
+                    linx= f'https://www.bris.ac.uk/{linx}'
+                except:
+                    continue
+                response= requests.get(linx)
+                soup= BeautifulSoup(response.content, "html.parser")
+                for row in table.select('tr'):
+                    tds = row.select('td')
+                    if not tds[0].select_one('a'):
+                        continue
+
+                    unit_name, _, _, status, _ = tds
+
+                    link = f"https://www.bristol.ac.uk{unit_name.select_one('a')['href']}"
+                    title = unit_name.select_one('a').text.strip()
+
+                    modules.append({
+                        'type': status.text.strip(),
+                        'title': title,
+                        'link': link
+                    })
+
+                
         except (AttributeError, ValueError):
             modules = []
         return modules

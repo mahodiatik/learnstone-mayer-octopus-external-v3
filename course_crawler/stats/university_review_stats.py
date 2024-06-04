@@ -10,7 +10,7 @@ import pandas as pd
 from functional import seq
 
 
-TARGET_COURSES_JSON = "courses_bristol_2024-2025_2024-05-29T20:59:55.json"
+TARGET_COURSES_JSON = "courses_oxford_2024-2025_2024-06-04T02:59:03.json"
 
 
 if __name__ == "__main__":
