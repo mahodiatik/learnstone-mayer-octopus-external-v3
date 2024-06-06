@@ -252,8 +252,7 @@ class BristolSpider(scrapy.Spider):
 
     def _get_entry_requirements(self, soup: BeautifulSoup) -> Optional[str]:
         try:
-            entry_requirements_block = soup.find("section#entry-requirements")
-            entry_requirements = entry_requirements_block.find_next().text.strip()
+            entry_requirements = soup.select_one("section#entry-requirements").prettify() 
         except AttributeError:
             entry_requirements = None
         return entry_requirements

@@ -1,0 +1,4353 @@
+[
+    {
+        "full_name": "MSt (flexible) Genomic Medicine",
+        "name": "(flexible) Genomic Medicine",
+        "code": "ICICSTGMX",
+        "part_time": "10 months ",
+        "full_time": "",
+        "departments": [
+            "Department of Medical Genetics",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/MSt-flexible-genomic-medicine",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PG Diploma (flexible) in Genomic Medicine",
+        "name": "(flexible) in Genomic Medicine",
+        "code": "ICICDPGMF",
+        "part_time": "9 months",
+        "full_time": "",
+        "departments": [
+            "Department of Medical Genetics",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGDip",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/postgraduate-diploma-flexible-genomic-medicine",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": null
+    },
+    {
+        "full_name": "Postgraduate Certificate in Advanced Clinical Practice (PHEM)",
+        "name": "Advanced Clinical Practice ",
+        "code": "ICICPCACP",
+        "part_time": "9 months",
+        "full_time": "",
+        "departments": [
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/postgraduate-certificate-advanced-clinical-practice-phem",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PGCert in Clinical Research, Education, and Leadership",
+        "name": "Clinical Research, Education, and Leadership",
+        "code": "CVMDPCPCC",
+        "part_time": "10 months ",
+        "full_time": "",
+        "departments": [
+            "School of Clinical Medicine",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/postgraduate-certificate-clinical-research-education-and-leadership-0",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Corporate Law (MCL)",
+        "name": "Corporate Law",
+        "code": "LWLWCLCL",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Law"
+        ],
+        "qualification": "MCL",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/lwlwclcl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Advanced Diploma in Economics",
+        "name": "Economics",
+        "code": "ECECADECN",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Economics"
+        ],
+        "qualification": "AdvDip",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ececadecn",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Educational Studies: Child and Adolescent Psychotherapeutic Counselling",
+        "name": "Educational Studies: Child and Adolescent Psychotherapeutic Counselling",
+        "code": "EDEDDPEPC",
+        "part_time": "12 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "PGDip",
+        "first_instance": null,
+        "prospectus_url": "http://www.educ.cam.ac.uk/courses/ppd/",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Award in Educational Studies: Introduction to Child and Adolescent Psychotherapeutic Counselling",
+        "name": "Educational Studies: Introduction to Child and Adolescent Psychotherapeutic Counselling",
+        "code": "EDEDPAECP",
+        "part_time": "4 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "PGA",
+        "first_instance": null,
+        "prospectus_url": "http://www.educ.cam.ac.uk/courses/ppd/",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Finance",
+        "name": "Finance",
+        "code": "BMJBMFFIN",
+        "part_time": "",
+        "full_time": "12 months",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "MFin",
+        "first_instance": null,
+        "prospectus_url": "https://www.jbs.cam.ac.uk/programmes/master-of-finance-mfin/",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Genomic Medicine",
+        "name": "Genomic Medicine",
+        "code": "CVMGSTGNM",
+        "part_time": "20 months",
+        "full_time": "",
+        "departments": [
+            "Department of Medical Genetics",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "http://www.ice.cam.ac.uk/course/mst-genomic-medicine",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PGCert in Genomic Medicine",
+        "name": "Genomic Medicine",
+        "code": "CVMGPCGNM",
+        "part_time": "9 months ",
+        "full_time": "",
+        "departments": [
+            "Department of Medical Genetics",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "http://www.ice.cam.ac.uk/course/postgraduate-certificate-genomic-medicine",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PGDip in Genomic Medicine",
+        "name": "Genomic Medicine",
+        "code": "CVMGDPGNM",
+        "part_time": "21 months ",
+        "full_time": "",
+        "departments": [
+            "Department of Medical Genetics",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGDip",
+        "first_instance": null,
+        "prospectus_url": "http://www.ice.cam.ac.uk/course/postgraduate-diploma-genomic-medicine",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Certificate in Healthcare Innovation",
+        "name": "Healthcare Innovation",
+        "code": "EGEGCPHCI",
+        "part_time": "12 months",
+        "full_time": "",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://healthcare.eng.cam.ac.uk/",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": null
+    },
+    {
+        "full_name": "AdvDip in Hebrew Studies",
+        "name": "Hebrew Studies",
+        "code": "AMAMADADH",
+        "part_time": "",
+        "full_time": "9 Months",
+        "departments": [
+            "Faculty of Asian and Middle Eastern Studies",
+            "Department of Middle Eastern Studies"
+        ],
+        "qualification": "AdvDip",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/amamadadh",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Law (LLM)",
+        "name": "Law",
+        "code": "LWLWLLLL",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Law"
+        ],
+        "qualification": "LLM",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/lwlwllll",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PG Certificate in Leadership of Urban Digital Innovation for Public Value (LeadUP)",
+        "name": "Leadership of Urban Digital Innovation for Public Value (LeadUP)",
+        "code": "EGEGPCLUD",
+        "part_time": "",
+        "full_time": "",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://leadup.eng.cam.ac.uk/",
+        "open": true,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": null
+    },
+    {
+        "full_name": "PG Diploma in Leadership of Urban Digital Innovation for Public Value (LeadUP)",
+        "name": "Leadership of Urban Digital Innovation for Public Value (LeadUP)",
+        "code": "EGEGDPLUI",
+        "part_time": "",
+        "full_time": "",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "PGDip",
+        "first_instance": null,
+        "prospectus_url": "https://leadup.eng.cam.ac.uk/",
+        "open": true,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": null
+    },
+    {
+        "full_name": "MPhil in Management",
+        "name": "Management",
+        "code": "BMJBMPMGT",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/bmjbmpmgt",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Accounting",
+        "name": "Master of Accounting",
+        "code": "BMJBMCMAC",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Faculty of Business and Management",
+            "Judge Business School"
+        ],
+        "qualification": "MAcc",
+        "first_instance": null,
+        "prospectus_url": "https://www.jbs.cam.ac.uk/programmes/macc/",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Studies (MSt) in Architecture (Degree Apprenticeship)",
+        "name": "Master of Studies (MSt) in Architecture (Degree Apprenticeship)",
+        "code": "ICICSTARA",
+        "part_time": "3 years ",
+        "full_time": "",
+        "departments": [
+            "Department of Architecture",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/mst-architecture-apprenticeship",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MASt in Mathematics (Applied Mathematics)",
+        "name": "Mathematics (Applied Mathematics)",
+        "code": "MAAMASAPM",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Mathematics",
+            "Department of Applied Mathematics and Theoretical Physics"
+        ],
+        "qualification": "MASt",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/maamasapm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MASt in Mathematics (Mathematical Statistics)",
+        "name": "Mathematics (Mathematical Statistics)",
+        "code": "MAPMASMST",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Mathematics",
+            "Department of Pure Mathematics and Mathematical Statistics"
+        ],
+        "qualification": "MASt",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/mapmasmst",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MASt in Mathematics (Pure Mathematics)",
+        "name": "Mathematics (Pure Mathematics)",
+        "code": "MAPMASPMM",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Mathematics",
+            "Department of Pure Mathematics and Mathematical Statistics"
+        ],
+        "qualification": "MASt",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/mapmaspmm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MASt in Mathematics (Theoretical Physics)",
+        "name": "Mathematics (Theoretical Physics)",
+        "code": "MAAMASTPH",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Mathematics",
+            "Department of Applied Mathematics and Theoretical Physics"
+        ],
+        "qualification": "MASt",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/maamastph",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Certificate in Medical Education",
+        "name": "Medical Education",
+        "code": "ICICPCMED",
+        "part_time": "9 months",
+        "full_time": "",
+        "departments": [
+            "Department of Medicine"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/postgraduate-certificate-medical-education-0",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Entrepreneurship",
+        "name": "MSt in Entrepreneurship",
+        "code": "BMJBSTMSE",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Faculty of Business and Management",
+            "Judge Business School",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.jbs.cam.ac.uk/masters-degrees/mst-entrepreneurship/",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Diploma in Clinical Medicine ",
+        "name": "Postgraduate Diploma in Clinical Medicine ",
+        "code": "CVMDDPPDC",
+        "part_time": "9 months",
+        "full_time": "",
+        "departments": [
+            "School of Clinical Medicine",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGDip",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/postgraduate-diploma-clinical-medicine",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": null
+    },
+    {
+        "full_name": "Postgraduate Certificate in Professional Practice in Architecture",
+        "name": "Professional Practice in Architecture",
+        "code": "AHARPCPPA",
+        "part_time": "13 months",
+        "full_time": "",
+        "departments": [
+            "Department of Architecture",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://www.arct.cam.ac.uk/courses/postgraduate/postgraduate-certificate-in-professional-practice-in-architecture-arb-riba-part3",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Certificate in Teaching Creative Writing",
+        "name": "Teaching Creative Writing",
+        "code": "ICICPCPTW",
+        "part_time": "9 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "http://www.ice.cam.ac.uk/course/postgraduate-certificate-teaching-creative-writing",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Advanced Diploma in Theology, Religion and Philosophy of Religion",
+        "name": "Theology, Religion and Philosophy of Religion",
+        "code": "DVDVADTRS",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Divinity"
+        ],
+        "qualification": "AdvDip",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/dvdvadtrs",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Entirely Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MASt in Astrophysics",
+        "name": "Astrophysics",
+        "code": "PCASASAST",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Institute of Astronomy"
+        ],
+        "qualification": "MASt",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcasasast",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Bioscience Enterprise",
+        "name": "Bioscience Enterprise",
+        "code": "EGCEMPBSE",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Chemical Engineering and Biotechnology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egcempbse",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Business Administration",
+        "name": "Business Administration",
+        "code": "BMJBMBMBA",
+        "part_time": "",
+        "full_time": "12 months",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "MBA",
+        "first_instance": null,
+        "prospectus_url": "https://www.jbs.cam.ac.uk/programmes/mba/",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Executive Master of Business Administration",
+        "name": "Business Administration, Executive",
+        "code": "BMJBEBEMB",
+        "part_time": "20 months",
+        "full_time": "",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "EMBA",
+        "first_instance": null,
+        "prospectus_url": "https://www.jbs.cam.ac.uk/programmes/executivemba/",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Climate, Environmental and Urban Policy ",
+        "name": "Climate, Environmental and Urban Policy ",
+        "code": "LELESTCEU",
+        "part_time": "21 Months ",
+        "full_time": "",
+        "departments": [
+            "Department of Land Economy",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.landecon.cam.ac.uk/course-page/mst-climate-environment-and-urban-policy",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Coaching ",
+        "name": "Coaching ",
+        "code": "ICICSTCNG",
+        "part_time": "24",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/mst-coaching",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Cognitive Neurosciences",
+        "name": "Cognitive Neurosciences",
+        "code": "CVCMMPCNS",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "MRC Cognition and Brain Sciences Unit"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvcmmpcns",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Conservation Leadership",
+        "name": "Conservation Leadership",
+        "code": "EAGGMPMCL",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Geography"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/eaggmpmcl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Creative Writing",
+        "name": "Creative Writing",
+        "code": "ELELSTCRW",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Faculty of English",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/mst-creative-writing",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Data Intensive Science",
+        "name": "Data Intensive Science",
+        "code": "PCPHMPDIS",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Applied Mathematics and Theoretical Physics",
+            "Institute of Astronomy",
+            "Department of Physics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcphmpdis",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Economic Research",
+        "name": "Economic Research",
+        "code": "ECECMPMER",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Faculty of Economics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ececmpmer",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Economics",
+        "name": "Economics",
+        "code": "ECECMPMEC",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Economics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ececmpmec",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Economics and Data Science",
+        "name": "Economics and Data Science",
+        "code": "ECECMPEDS",
+        "part_time": "21 months",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Economics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ececmpeds",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Certificate in Educational Studies",
+        "name": "Educational Studies",
+        "code": "EDEDPCEDS",
+        "part_time": "8 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "http://www.educ.cam.ac.uk/courses/ppd/",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Energy Technologies",
+        "name": "Energy Technologies",
+        "code": "EGEGMPMET",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegmpmet",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Engineering for Sustainable Development",
+        "name": "Engineering for Sustainable Development",
+        "code": "EGEGMPESD",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegmpesd",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Environmental Policy",
+        "name": "Environmental Policy",
+        "code": "LELEMPEPL",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Land Economy"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/lelempepl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Executive MBA (Global)",
+        "name": "Executive MBA (Global)",
+        "code": "BMBMEBEMG",
+        "part_time": "20 months",
+        "full_time": "",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "EMBA",
+        "first_instance": null,
+        "prospectus_url": "https://www.jbs.cam.ac.uk/programmes/global-emba/",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Finance",
+        "name": "Finance",
+        "code": "BMJBMPFIN",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/bmjbmpfin",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Finance and Economics",
+        "name": "Finance and Economics",
+        "code": "ECECMPMFE",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Faculty of Economics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ececmpmfe",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Genomic Medicine",
+        "name": "Genomic Medicine",
+        "code": "CVMGMPGNM",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Medical Genetics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvmgmpgnm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PGCert in Interdisciplinary Design for the Built Environment",
+        "name": "Interdisciplinary Design for the Built Environment",
+        "code": "AHARPCIDB",
+        "part_time": "10 months",
+        "full_time": "",
+        "departments": [
+            "Department of Architecture",
+            "Department of Engineering",
+            "Cambridge Institute for Sustainability Leadership"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://www.cisl.cam.ac.uk/education/graduate-study/idbe/master-built-environment",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Leadership of Urban Digital Innovation for Public Value (LeadUP)",
+        "name": "Leadership of Urban Digital Innovation for Public Value (LeadUP)",
+        "code": "EGEGSTLDI",
+        "part_time": "",
+        "full_time": "",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegstldi",
+        "open": true,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": null
+    },
+    {
+        "full_name": "Postgraduate Certificate in Learning Design and Teaching Innovation",
+        "name": "Learning Design and Teaching Innovation",
+        "code": "ICICPCLDT",
+        "part_time": "10 months ",
+        "full_time": "",
+        "departments": [
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/pgcert-learning-design-teaching-innovation",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PG Certificate in Learning Design and Teaching Innovation (Academic Professional Apprenticeship)",
+        "name": "Learning Design and Teaching Innovation (Academic Professional Apprenticeship)",
+        "code": "ICICPCLDA",
+        "part_time": "15-18 months",
+        "full_time": "",
+        "departments": [
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/pgcert-learning-design-teaching-innovation",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Machine Learning and Machine Intelligence",
+        "name": "Machine Learning and Machine Intelligence",
+        "code": "EGEGMPMSL",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegmpmsl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Conservation of Easel Painting",
+        "name": "Master of Conservation of Easel Painting",
+        "code": "AHHAEPCEP",
+        "part_time": "",
+        "full_time": "36 months",
+        "departments": [
+            "Department of History of Art"
+        ],
+        "qualification": "MCEP",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ahhaepcep",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Medical Education",
+        "name": "Medical Education",
+        "code": "ICICSTMME",
+        "part_time": "11 months ",
+        "full_time": "",
+        "departments": [
+            "School of Clinical Medicine",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/mst-medical-education-1",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Diploma in Medical Education",
+        "name": "Medical Education",
+        "code": "ICICDPDME",
+        "part_time": "9 Months ",
+        "full_time": "",
+        "departments": [
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGDip",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/postgraduate-diploma-medical-education-0",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Micro and Nanotechnology Enterprise",
+        "name": "Micro and Nanotechnology Enterprise",
+        "code": "PCMMMPMNE",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Chemistry",
+            "Department of Materials Science and Metallurgy",
+            "Department of Physics",
+            "Department of Engineering"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcmmmpmne",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Molecular Mechanisms of Human Disease",
+        "name": "Molecular Mechanisms of Human Disease",
+        "code": "CVIMMPMHD",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Cambridge Institute for Medical Research"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvimmpmhd",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Nuclear Energy",
+        "name": "Nuclear Energy",
+        "code": "EGEGMPMNE",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegmpmne",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Obesity, Endocrinology and Metabolism",
+        "name": "Obesity, Endocrinology and Metabolism",
+        "code": "CVCMMPOCM",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Clinical Biochemistry"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvcmmpocm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PGCert in Philosophy",
+        "name": "Philosophy",
+        "code": "ICICPCPHL",
+        "part_time": "12 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Philosophy",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/postgraduate-certificate-philosophy",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MASt in Physics",
+        "name": "Physics",
+        "code": "PCPHASPHY",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Physics"
+        ],
+        "qualification": "MASt",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcphasphy",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Planetary Science and Life in the Universe",
+        "name": "Planetary Science and Life in the Universe",
+        "code": "PCASMPPSL",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Biochemistry",
+            "Department of Zoology",
+            "Department of Earth Sciences",
+            "Department of Applied Mathematics and Theoretical Physics",
+            "Institute of Astronomy",
+            "Department of Chemistry",
+            "Department of Physics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcasmppsl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Planning, Growth and Regeneration",
+        "name": "Planning, Growth and Regeneration",
+        "code": "LELEMPPGR",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Land Economy"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/lelemppgr",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Polar Studies (Scott Polar Research Institute)",
+        "name": "Polar Studies (Scott Polar Research Institute)",
+        "code": "EASPMPMPS",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Scott Polar Research Institute"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/easpmpmps",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Public Policy",
+        "name": "Public Policy",
+        "code": "POPIMPPUP",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Politics and International Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/popimppup",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Quantitative Climate and Environmental Science",
+        "name": "Quantitative Climate and Environmental Science",
+        "code": "MAAMMPQCE",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Earth Sciences",
+            "Department of Applied Mathematics and Theoretical Physics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/maammpqce",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Real Estate Finance",
+        "name": "Real Estate Finance",
+        "code": "LELEMPREF",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Land Economy"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/lelempref",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Social Anthropological Research",
+        "name": "Social Anthropological Research",
+        "code": "AASAMPSAR",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Social Anthropology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aasampsar",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Social Anthropology",
+        "name": "Social Anthropology",
+        "code": "AASAMPSAP",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Social Anthropology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aasampsap",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Certificate in Sustainable Business",
+        "name": "Sustainable Business",
+        "code": "BMSLPCSTB",
+        "part_time": "9 months",
+        "full_time": "",
+        "departments": [
+            "Cambridge Institute for Sustainability Leadership"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "https://www.cisl.cam.ac.uk/education/graduate-study/pgcerts",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Diploma in Sustainable Business",
+        "name": "Sustainable Business",
+        "code": "BMSLDPSTB",
+        "part_time": "18 months - 3 years",
+        "full_time": "",
+        "departments": [
+            "Cambridge Institute for Sustainability Leadership"
+        ],
+        "qualification": "PGDip",
+        "first_instance": null,
+        "prospectus_url": "https://www.cisl.cam.ac.uk/education/graduate-study/postgraduate-diploma-in-sustainable-business",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Diploma",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Technology Policy",
+        "name": "Technology Policy",
+        "code": "BMJBMPTPL",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/bmjbmptpl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Writing for Performance ",
+        "name": "Writing for Performance ",
+        "code": "ELELSTWFP",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Faculty of English",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/mst-writing-performance",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Writing for Performance (EdX)",
+        "name": "Writing for Performance (EdX)",
+        "code": "ELELSTWPX",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Faculty of English",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/mst-writing-performance",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Taught",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Advanced Chemical Engineering",
+        "name": "Advanced Chemical Engineering",
+        "code": "EGCEMPACE",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Chemical Engineering and Biotechnology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egcempace",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Advanced Computer Science",
+        "name": "Advanced Computer Science",
+        "code": "CSCSMPACS",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Computer Science and Technology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cscsmpacs",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in African Studies",
+        "name": "African Studies",
+        "code": "POAFMPAFS",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Politics and International Studies",
+            "Centre of African Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/poafmpafs",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in AI Ethics and Society",
+        "name": "AI Ethics and Society",
+        "code": "ICICSTAIE",
+        "part_time": "22 months",
+        "full_time": "",
+        "departments": [
+            "Leverhulme Centre for the Future of intelligence",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/mst-ai-ethics-and-society",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in American History",
+        "name": "American History",
+        "code": "HIHIMPAMH",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of History"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hihimpamh",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Anglo-Saxon, Norse and Celtic",
+        "name": "Anglo-Saxon, Norse and Celtic",
+        "code": "ELASMPANC",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of English",
+            "Department of Anglo-Saxon, Norse and Celtic"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/elasmpanc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Anthropocene Studies",
+        "name": "Anthropocene Studies",
+        "code": "EAGGMPANS",
+        "part_time": "",
+        "full_time": "11 Months",
+        "departments": [
+            "Department of Geography"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/eaggmpans",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Applied Criminology and Police Management",
+        "name": "Applied Criminology and Police Management",
+        "code": "LWCRSTACP",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Institute of Criminology",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.crim.cam.ac.uk/mst-applied-criminology-and-police-managment-police-executive-programme",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Applied Criminology, Penology and Management",
+        "name": "Applied Criminology, Penology and Management",
+        "code": "LWCRSTCPM",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Institute of Criminology",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.crim.cam.ac.uk/mst-applied-criminology-penology-and-management",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Archaeological Science",
+        "name": "Archaeological Science",
+        "code": "AAARMPARS",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Archaeology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aaarmpars",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Archaeology",
+        "name": "Archaeology",
+        "code": "AAARMPMAR",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Archaeology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aaarmpmar",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Architecture and Urban Studies",
+        "name": "Architecture and Urban Studies",
+        "code": "AHARMPAUS",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Architecture"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aharmpaus",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Asian and Middle Eastern Studies (Chinese Studies)",
+        "name": "Asian and Middle Eastern Studies (Chinese Studies)",
+        "code": "AMAMMPCHS",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Asian and Middle Eastern Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/amammpchs",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Asian and Middle Eastern Studies (Classical Islamic History and Culture)",
+        "name": "Asian and Middle Eastern Studies (Classical Islamic History and Culture)",
+        "code": "AMAMMPCIH",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Asian and Middle Eastern Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/amammpcih",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Asian and Middle Eastern Studies (Hebrew and Pre-Modern Jewish History and Culture)",
+        "name": "Asian and Middle Eastern Studies (Hebrew and Pre-Modern Jewish History and Culture)",
+        "code": "AMAMMPHHC",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Asian and Middle Eastern Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/amammphhc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Asian and Middle Eastern Studies (Hebrew and Semitic Studies)",
+        "name": "Asian and Middle Eastern Studies (Hebrew and Semitic Studies)",
+        "code": "AMAMMPAHS",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Asian and Middle Eastern Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/amammpahs",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Asian and Middle Eastern Studies (Japanese Studies)",
+        "name": "Asian and Middle Eastern Studies (Japanese Studies)",
+        "code": "AMAMMPJPS",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Asian and Middle Eastern Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/amammpjps",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Asian and Middle Eastern Studies (Korean Studies)",
+        "name": "Asian and Middle Eastern Studies (Korean Studies)",
+        "code": "AMAMMPKRS",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Asian and Middle Eastern Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/amammpkrs",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Asian and Middle Eastern Studies (Modern Middle Eastern Studies)",
+        "name": "Asian and Middle Eastern Studies (Modern Middle Eastern Studies)",
+        "code": "AMAMMPMMS",
+        "part_time": "",
+        "full_time": "11 Months",
+        "departments": [
+            "Faculty of Asian and Middle Eastern Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/amammpmms",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Asian and Middle Eastern Studies (Muslim-Jewish Relations)",
+        "name": "Asian and Middle Eastern Studies (Muslim-Jewish Relations)",
+        "code": "AMAMMPMJR",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Asian and Middle Eastern Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/amammpmjr",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Assyriology",
+        "name": "Assyriology",
+        "code": "AAARMPASS",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Archaeology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aaarmpass",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Basic and Translational Neuroscience",
+        "name": "Basic and Translational Neuroscience",
+        "code": "BLPDMPBTN",
+        "part_time": "",
+        "full_time": "12 months",
+        "departments": [
+            "Department of Physiology, Development and Neuroscience"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blpdmpbtn",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Biological Science (Veterinary Medicine) by thesis",
+        "name": "Biological Science (Veterinary Medicine) by thesis",
+        "code": "CVVTMPBSV",
+        "part_time": "2 years",
+        "full_time": "12 months",
+        "departments": [
+            "Department of Veterinary Medicine"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvvtmpbsv",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Biotechnology",
+        "name": "Biotechnology",
+        "code": "EGCEMPBIT",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Chemical Engineering and Biotechnology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egcempbit",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Clinical Medicine ",
+        "name": "Clinical Medicine ",
+        "code": "CVMDSTMIC",
+        "part_time": "12 months ",
+        "full_time": "",
+        "departments": [
+            "School of Clinical Medicine",
+            "Department of Medicine",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "http://www.ice.cam.ac.uk/mst-clinical-medicine",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Criminological Research",
+        "name": "Criminological Research",
+        "code": "LWCRMPCMR",
+        "part_time": "",
+        "full_time": "12 months",
+        "departments": [
+            "Institute of Criminology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/lwcrmpcmr",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Criminology",
+        "name": "Criminology",
+        "code": "LWCRMPMCR",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Institute of Criminology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/lwcrmpmcr",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Development Studies",
+        "name": "Development Studies",
+        "code": "PODVMPMDV",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Politics and International Studies",
+            "Centre of Development Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/podvmpmdv",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Digital Humanities",
+        "name": "Digital Humanities",
+        "code": "ELELMPDGH",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of English"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/elelmpdgh",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Early Modern History",
+        "name": "Early Modern History",
+        "code": "HIHIMPEMH",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of History"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hihimpemh",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MASt in Earth Sciences",
+        "name": "Earth Sciences",
+        "code": "EAESASASE",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Earth Sciences"
+        ],
+        "qualification": "MASt",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/eaesasase",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Economic and Social History",
+        "name": "Economic and Social History",
+        "code": "HIHIMPESH",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of History"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hihimpesh",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Education (Arts, Creativity & Education)",
+        "name": "Education (Arts, Creativity & Education)",
+        "code": "EDEDMPEAC",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmpeac",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Education (Critical Approaches to Children's Literature)",
+        "name": "Education (Critical Approaches to Children's Literature)",
+        "code": "EDEDMPECL",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmpecl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Education (Critical Approaches to Children's Literature) PGCE entry only",
+        "name": "Education (Critical Approaches to Children's Literature) PGCE entry only",
+        "code": "EDEDMEPCL",
+        "part_time": "1 year",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MEd",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmepcl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Education (Education, Globalisation and International Development)",
+        "name": "Education (Education, Globalisation and International Development)",
+        "code": "EDEDMPEGD",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmpegd",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Education (Knowledge, Power and Politics)",
+        "name": "Education (Knowledge, Power and Politics)",
+        "code": "EDEDMPKPP",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmpkpp",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Education (Mathematics Education)",
+        "name": "Education (Mathematics Education)",
+        "code": "EDEDMPEMM",
+        "part_time": "24 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmpemm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Education (Mathematics Education) PGCE entry only",
+        "name": "Education (Mathematics Education) PGCE entry only",
+        "code": "EDEDMEPMM",
+        "part_time": "1 year",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MEd",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmepmm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Education (Primary Education)",
+        "name": "Education (Primary Education)",
+        "code": "EDEDMPEPE",
+        "part_time": "24 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmpepe",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Education (Primary Education) PGCE entry only",
+        "name": "Education (Primary Education) PGCE entry only",
+        "code": "EDEDMEPPE",
+        "part_time": "1 year",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MEd",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmeppe",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Education (Psychology and Education) full time",
+        "name": "Education (Psychology and Education) full time",
+        "code": "EDEDMPEPY",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmpepy",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Education (Psychology and Education) part time",
+        "name": "Education (Psychology and Education) part time",
+        "code": "EDEDMPEPP",
+        "part_time": "22 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmpepp",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Education (Research in Second Language Education)",
+        "name": "Education (Research in Second Language Education)",
+        "code": "EDEDMPESL",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmpesl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Education (Research in Second Language Education) PGCE entry only",
+        "name": "Education (Research in Second Language Education) PGCE entry only",
+        "code": "EDEDMEPSL",
+        "part_time": "1 year",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MEd",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmepsl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MEd in Education (Transforming Practice) PACES entry only",
+        "name": "Education (Transforming Practice) PACES entry only",
+        "code": "EDEDMETPA",
+        "part_time": "12 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MEd",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmetpa",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MEd in Education (Transforming Practice) PGCE entry only",
+        "name": "Education (Transforming Practice) PGCE entry only",
+        "code": "EDEDMETPP",
+        "part_time": "12 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MEd",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmetpp",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Egyptology",
+        "name": "Egyptology",
+        "code": "AAARMPEGY",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Archaeology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aaarmpegy",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in English Studies",
+        "name": "English Studies",
+        "code": "ELELMPES",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of English"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/elelmpes",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Ethics of AI, Data and Algorithms",
+        "name": "Ethics of AI, Data and Algorithms",
+        "code": "PHPHMPEAD",
+        "part_time": "",
+        "full_time": "9 months ",
+        "departments": [
+            "Faculty of Philosophy",
+            "Leverhulme Centre for the Future of intelligence"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/phphmpead",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in European, Latin American and Comparative Literatures and Cultures by Advanced Study",
+        "name": "European, Latin American and Comparative Literatures and Cultures by Advanced Study",
+        "code": "MMMMMPELC",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Modern and Medieval Languages and Linguistics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/mmmmmpelc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Film and Screen Studies by Advanced Study",
+        "name": "Film and Screen Studies by Advanced Study",
+        "code": "MMMMMPSMC",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Modern and Medieval Languages and Linguistics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/mmmmmpsmc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Health, Medicine and Society",
+        "name": "Health, Medicine and Society",
+        "code": "HPHPMPHMS",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Social Anthropology",
+            "Department of Sociology",
+            "Department of History and Philosophy of Science"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hphpmphms",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Heritage Studies",
+        "name": "Heritage Studies",
+        "code": "AAARMPHST",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Archaeology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aaarmphst",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in History",
+        "name": "History",
+        "code": "HIHISTHST",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Faculty of History",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "http://www.ice.cam.ac.uk/mst-history",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in History and Philosophy of Science and Medicine",
+        "name": "History and Philosophy of Science and Medicine",
+        "code": "HPHPMPSTM",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of History and Philosophy of Science"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hphpmpstm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in History of Art and Architecture",
+        "name": "History of Art and Architecture",
+        "code": "AHHAMPHAA",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of History of Art"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ahhamphaa",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in History of Art and Visual Culture",
+        "name": "History of Art and Visual Culture",
+        "code": "AHAHSTAVC",
+        "part_time": "24 months",
+        "full_time": "",
+        "departments": [
+            "Faculty of Architecture and History of Art",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/mst-history-art-and-visual-culture",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Holocene Climates",
+        "name": "Holocene Climates",
+        "code": "EAGGMPHCM",
+        "part_time": "",
+        "full_time": "11 Months",
+        "departments": [
+            "Department of Geography"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/eaggmphcm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Human Evolutionary Studies",
+        "name": "Human Evolutionary Studies",
+        "code": "AAARMPHES",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Archaeology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aaarmphes",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Industrial Systems, Manufacture, and Management",
+        "name": "Industrial Systems, Manufacture, and Management",
+        "code": "EGEGMPIMM",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Engineering",
+            "Institute for Manufacturing"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegmpimm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Innovation, Strategy and Organisation",
+        "name": "Innovation, Strategy and Organisation",
+        "code": "BMJBMPISO",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/bmjbmpiso",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in International Relations",
+        "name": "International Relations",
+        "code": "POPISTIRN",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Department of Politics and International Studies"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.polis.cam.ac.uk/Graduates/prospective-mst-students",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Land Economy Research",
+        "name": "Land Economy Research",
+        "code": "LELEMPLER",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Land Economy"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/lelempler",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Latin American Studies",
+        "name": "Latin American Studies",
+        "code": "POLAMPLAS",
+        "part_time": "21 months",
+        "full_time": "9 months",
+        "departments": [
+            "Centre of Latin American Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/polamplas",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Architecture",
+        "name": "Master of Architecture",
+        "code": "AHARMAMAR",
+        "part_time": "",
+        "full_time": "21 months",
+        "departments": [
+            "Department of Architecture"
+        ],
+        "qualification": "MARCH",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aharmamar",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Education (Mathematics Education) PACES entry only ",
+        "name": "Master of Education (Mathematics Education) PACES entry only ",
+        "code": "EDEDMEPME",
+        "part_time": "1 year",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MEd",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmepme",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Master of Education (Primary Education) PACES entry only",
+        "name": "Master of Education (Primary Education) PACES entry only",
+        "code": "EDEDMEPMP",
+        "part_time": "1 year",
+        "full_time": "",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "MEd",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededmepmp",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Medieval History",
+        "name": "Medieval History",
+        "code": "HIHIMPMMH",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of History"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hihimpmmh",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Modern British History",
+        "name": "Modern British History",
+        "code": "HIHIMPMBH",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of History"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hihimpmbh",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Modern European History",
+        "name": "Modern European History",
+        "code": "HIHIMPMEH",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of History"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hihimpmeh",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Modern South Asian Studies",
+        "name": "Modern South Asian Studies",
+        "code": "POASMPMSA",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Politics and International Studies",
+            "Centre of South Asian Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/poasmpmsa",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in English Language Assessment ",
+        "name": "MSt in English Language Assessment ",
+        "code": "ICICSTELA",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Faculty of Modern and Medieval Languages and Linguistics",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.ice.cam.ac.uk/course/mst-english-language-assessment",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Multi-disciplinary Gender Studies",
+        "name": "Multi-disciplinary Gender Studies",
+        "code": "POGSMPMGS",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Politics and International Studies",
+            "Centre for Gender Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pogsmpmgs",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Music",
+        "name": "Music",
+        "code": "MUMUMPMST",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Music"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/mumumpmst",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Political Thought and Intellectual History",
+        "name": "Political Thought and Intellectual History",
+        "code": "HIHIMPPTH",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of History"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hihimppth",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Politics and International Studies",
+        "name": "Politics and International Studies",
+        "code": "POPIMPIRP",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Politics and International Studies"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/popimpirp",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Population Health Sciences",
+        "name": "Population Health Sciences",
+        "code": "CVPHMPPHS",
+        "part_time": "22 months",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Public Health and Primary Care",
+            "MRC Epidemiology Unit",
+            "MRC Biostatistics Unit"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvphmpphs",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Real Estate",
+        "name": "Real Estate",
+        "code": "LELESTRES",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Department of Land Economy",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.landecon.cam.ac.uk/postgraduate-study/masters-real-estate",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Scientific Computing",
+        "name": "Scientific Computing",
+        "code": "PCPHMPSCM",
+        "part_time": "",
+        "full_time": "12 months",
+        "departments": [
+            "Department of Applied Mathematics and Theoretical Physics",
+            "Department of Pure Mathematics and Mathematical Statistics",
+            "Department of Chemistry",
+            "Department of Materials Science and Metallurgy",
+            "Department of Physics",
+            "Department of Engineering",
+            "Department of Chemical Engineering and Biotechnology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcphmpscm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MRes in Social Anthropology",
+        "name": "Social Anthropology",
+        "code": "AASAMRSAP",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Department of Social Anthropology"
+        ],
+        "qualification": "MRes",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aasamrsap",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MSt in Social Innovation",
+        "name": "Social Innovation",
+        "code": "BMJBSTSIL",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Judge Business School",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.jbs.cam.ac.uk/masters-degrees/mst-social-innovation/",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Sociology (Political and Economic Sociology)",
+        "name": "Sociology (Political and Economic Sociology)",
+        "code": "AASOMPPES",
+        "part_time": "21 months",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Sociology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aasomppes",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Sociology (The Sociology of Marginality and Exclusion)",
+        "name": "Sociology (The Sociology of Marginality and Exclusion)",
+        "code": "AASOMPSGT",
+        "part_time": "21 months",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Sociology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aasompsgt",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Sociology (The Sociology of Media and Culture)",
+        "name": "Sociology (The Sociology of Media and Culture)",
+        "code": "AASOMPSMC",
+        "part_time": "21 months",
+        "full_time": "9 months",
+        "departments": [
+            "Department of Sociology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aasompsmc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Strategy, Marketing and Operations",
+        "name": "Strategy, Marketing and Operations",
+        "code": "BMJBMPMSO",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/bmjbmpmso",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Sustainability Leadership",
+        "name": "Sustainability Leadership",
+        "code": "BMSLSTSLP",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Cambridge Institute for Sustainability Leadership"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.cisl.cam.ac.uk/education/graduate-study/master-of-studies-in-sustainability-leadership",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Sustainability Leadership Flexible ",
+        "name": "Sustainability Leadership Flexible ",
+        "code": "BMSLSTSLF",
+        "part_time": "21 Months",
+        "full_time": "",
+        "departments": [
+            "Cambridge Institute for Sustainability Leadership"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.cisl.cam.ac.uk/education/graduate-study/master-of-studies-in-sustainability-leadership",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Postgraduate Certificate in Teaching and Learning in Higher Education",
+        "name": "Teaching and Learning",
+        "code": "ICICPCPTL",
+        "part_time": "13 months",
+        "full_time": "",
+        "departments": [
+            "Institute of Continuing Education",
+            "Cambridge Centre for Teaching and Learning"
+        ],
+        "qualification": "PGCert",
+        "first_instance": null,
+        "prospectus_url": "http://www.ice.cam.ac.uk/course/postgraduate-certificate-teaching-and-learning-higher-education",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Certificate/Award",
+        "funded_programme": "",
+        "study_mode": null
+    },
+    {
+        "full_name": "MPhil in Theology, Religion and Philosophy of Religion",
+        "name": "Theology, Religion and Philosophy of Religion",
+        "code": "DVDVMPMTR",
+        "part_time": "1 year and 9 months",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Divinity"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/dvdvmpmtr",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Theoretical and Applied Linguistics by Advanced Study",
+        "name": "Theoretical and Applied Linguistics by Advanced Study",
+        "code": "MMALMPTAL",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Modern and Medieval Languages and Linguistics",
+            "Department of Theoretical and Applied Linguistics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/mmalmptal",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in World History",
+        "name": "World History",
+        "code": "HIHIMPWHS",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of History"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/hihimpwhs",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Equal Taught/Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "EPSRC CDT PhD in Aerosol Science",
+        "name": "Aerosol Science",
+        "code": "EGEGPDARS",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegpdars",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "EPSRC CDT",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Archaeological Research",
+        "name": "Archaeological Research",
+        "code": "AAARMPARR",
+        "part_time": "",
+        "full_time": "10 months",
+        "departments": [
+            "Department of Archaeology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aaarmparr",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PhD in Biochemistry",
+        "name": "Biochemistry",
+        "code": "BLBCPDPBC",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Biochemistry"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blbcpdpbc",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Biological Anthropology",
+        "name": "Biological Anthropology",
+        "code": "AAARPDPBA",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Archaeology"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aaarpdpba",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Biological Science (Biochemistry) by thesis",
+        "name": "Biological Science (Biochemistry) by thesis",
+        "code": "BLBCMPBSC",
+        "part_time": "2 year",
+        "full_time": "12 months",
+        "departments": [
+            "Department of Biochemistry"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blbcmpbsc",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Biological Science (Genetics) by thesis",
+        "name": "Biological Science (Genetics) by thesis",
+        "code": "BLGEMPMBS",
+        "part_time": "2 years",
+        "full_time": "12 months",
+        "departments": [
+            "Department of Genetics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blgempmbs",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Biological Science (Stem Cell Biology) by thesis",
+        "name": "Biological Science (Stem Cell Biology) by thesis",
+        "code": "BLSCMPDSC",
+        "part_time": "24 months",
+        "full_time": "12 months",
+        "departments": [
+            "Wellcome - Medical Research Council Cambridge Stem Cell Institute"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blscmpdsc",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Biological Sciences (Biomolecular Science) by advanced study",
+        "name": "Biological Sciences (Biomolecular Science) by advanced study",
+        "code": "BLBLMPBMS",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Biology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blblmpbms",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Biological Sciences (Cell Science) by advanced study",
+        "name": "Biological Sciences (Cell Science) by advanced study",
+        "code": "BLBLMPCES",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Biology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blblmpces",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Biological Sciences (Crop Science) by advanced study",
+        "name": "Biological Sciences (Crop Science) by advanced study",
+        "code": "BLBLMPCSC",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Biology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blblmpcsc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Biological Sciences (Developmental Biology) by advanced study",
+        "name": "Biological Sciences (Developmental Biology) by advanced study",
+        "code": "BLBLMPDBY",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Biology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blblmpdby",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Biological Sciences (Infection Biology and Molecular Immunology) by advanced study",
+        "name": "Biological Sciences (Infection Biology and Molecular Immunology) by advanced study",
+        "code": "BLBLMPIMI",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Biology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blblmpimi",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MPhil in Biological Sciences (Reproduction and Embryogenesis) by advanced study",
+        "name": "Biological Sciences (Reproduction and Embryogenesis) by advanced study",
+        "code": "BLBLMPRAE",
+        "part_time": "",
+        "full_time": "11 months",
+        "departments": [
+            "Faculty of Biology"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blblmprae",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Building History",
+        "name": "Building History",
+        "code": "AHARSTBHY",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Faculty of Architecture and History of Art",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.arct.cam.ac.uk/courses/postgraduate/mst-building-history-1",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "CRUK Cambridge Centre MRes + PhD in Cancer Biology",
+        "name": "Cancer Biology",
+        "code": "CVOCPDCAN",
+        "part_time": "",
+        "full_time": "1+3 years",
+        "departments": [
+            "Department of Oncology"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MRes",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvocpdcan",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MRes + PhD in Cancer Biology (part-time)",
+        "name": "Cancer Biology (part-time)",
+        "code": "CVOCPDCBC",
+        "part_time": "2 years part-time MRes + 3 years full-time PhD",
+        "full_time": "",
+        "departments": [
+            "Department of Oncology"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MRes",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvocpdcbc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Classics",
+        "name": "Classics",
+        "code": "CLCLMPMCL",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Classics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/clclmpmcl",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "Clinical School MBPhD Programme",
+        "name": "Clinical MBPhD",
+        "code": "CVCMPDCMB",
+        "part_time": "",
+        "full_time": "3-4 years",
+        "departments": [
+            "School of Clinical Medicine",
+            "Faculty of Clinical Medicine"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvcmpdcmb",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "CDT MPhil + PhD in Computational Methods for Materials Science",
+        "name": "Computational Methods for Materials Science",
+        "code": "PCPHPDCMS",
+        "part_time": "",
+        "full_time": "1+3 years",
+        "departments": [
+            "Department of Applied Mathematics and Theoretical Physics",
+            "Department of Pure Mathematics and Mathematical Statistics",
+            "Department of Chemistry",
+            "Department of Materials Science and Metallurgy",
+            "Department of Physics",
+            "Department of Engineering",
+            "Department of Chemical Engineering and Biotechnology"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MPhil",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcphpdcms",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "CDT",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Computer Science",
+        "name": "Computer Science",
+        "code": "CSCSPDPCS",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Computer Science and Technology"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cscspdpcs",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MRes in Connected Electronic and Photonic Systems",
+        "name": "Connected Electronic and Photonic Systems",
+        "code": "EGEGMRIPE",
+        "part_time": "",
+        "full_time": "11 Months",
+        "departments": [
+            "Faculty of Engineering"
+        ],
+        "qualification": "MRes",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegmripe",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MSt in Construction Engineering",
+        "name": "Construction Engineering",
+        "code": "EGEGSTCEG",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Department of Engineering",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.construction.cam.ac.uk/education/cem",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PhD in Criminology",
+        "name": "Criminology",
+        "code": "LWCRPDPCR",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Institute of Criminology"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/lwcrpdpcr",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "EPSRC CDT PhD in Developing National Capability for Materials 4.0",
+        "name": "Developing National Capability for Materials 4.0",
+        "code": "PCMMPDDNC",
+        "part_time": "4-7 years",
+        "full_time": "4 years",
+        "departments": [
+            "Department of Chemistry",
+            "Department of Materials Science and Metallurgy",
+            "Department of Physics",
+            "Department of Engineering",
+            "Department of Chemical Engineering and Biotechnology"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcmmpddnc",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "EPSRC CDT",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Development Studies",
+        "name": "Development Studies",
+        "code": "PODVPDPDV",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Politics and International Studies",
+            "Centre of Development Studies"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/podvpdpdv",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "Doctor of Business",
+        "name": "Doctor of Business",
+        "code": "BMJBDBBDC",
+        "part_time": "",
+        "full_time": "4 years",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "BusD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/bmjbdbbdc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Economics",
+        "name": "Economics",
+        "code": "ECECPDPEC",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Faculty of Economics"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ececpdpec",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Education",
+        "name": "Education",
+        "code": "EDEDPDEDU",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Faculty of Education"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/ededpdedu",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Engineering",
+        "name": "Engineering",
+        "code": "EGEGMPMEG",
+        "part_time": "24 months",
+        "full_time": "12 months",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegmpmeg",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "EPSRC CDT MRes + PhD in Future Infrastructure and Built Environment",
+        "name": "Future Infrastructure and Built Environment",
+        "code": "EGEGPDFIB",
+        "part_time": "",
+        "full_time": "1+3 years",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MRes",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegpdfib",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "EPSRC CDT",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MRes + PhD in Future Infrastructure and Built Environment (part time)",
+        "name": "Future Infrastructure and Built Environment (part time)",
+        "code": "EGEGPDFIE",
+        "part_time": "2+ 5 years",
+        "full_time": "",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MRes",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegpdfie",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "EPSRC CDT MRes + PhD in Future Propulsion and Power",
+        "name": "Future Propulsion and Power",
+        "code": "EGEGPDGTA",
+        "part_time": "",
+        "full_time": "1+3 years",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MRes",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegpdgta",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "EPSRC CDT",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Genetics",
+        "name": "Genetics",
+        "code": "BLGEPDPHG",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Genetics"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blgepdphg",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MRes in Genomic Medicine",
+        "name": "Genomic Medicine",
+        "code": "CVMGMRGMD",
+        "part_time": "",
+        "full_time": "12 months",
+        "departments": [
+            "Department of Medical Genetics"
+        ],
+        "qualification": "MRes",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvmgmrgmd",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "MSt in Interdisciplinary Design for the Built Environment",
+        "name": "Interdisciplinary Design for the Built Environment",
+        "code": "AHAHSTDBE",
+        "part_time": "2 years",
+        "full_time": "",
+        "departments": [
+            "Faculty of Architecture and History of Art",
+            "Department of Architecture",
+            "Department of Engineering",
+            "Cambridge Institute for Sustainability Leadership",
+            "Institute of Continuing Education"
+        ],
+        "qualification": "MSt",
+        "first_instance": null,
+        "prospectus_url": "https://www.cisl.cam.ac.uk/sustainability-leadership-built-environment",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "PhD in Interdisciplinary Nanoscience and Nanotechnology",
+        "name": "Interdisciplinary Nanoscience and Nanotechnology",
+        "code": "PCPCPDNAN",
+        "part_time": "4-7 years",
+        "full_time": "3-4 Years",
+        "departments": [
+            "Department of Chemistry",
+            "Department of Materials Science and Metallurgy",
+            "Department of Physics",
+            "Department of Engineering",
+            "Department of Chemical Engineering and Biotechnology"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcpcpdnan",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Latin American Studies",
+        "name": "Latin American Studies",
+        "code": "POLAPDLAS",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Politics and International Studies",
+            "Centre of Latin American Studies"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/polapdlas",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Management Studies",
+        "name": "Management Studies",
+        "code": "BMJBPDMST",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/bmjbpdmst",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MRes + PhD in Management Studies",
+        "name": "Management Studies",
+        "code": "BMJBPDMGM",
+        "part_time": "",
+        "full_time": "1+3 years",
+        "departments": [
+            "Judge Business School"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MRes",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/bmjbpdmgm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Materials Science and Metallurgy",
+        "name": "Materials Science and Metallurgy",
+        "code": "PCMMPDMSM",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Materials Science and Metallurgy"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcmmpdmsm",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Mathematics",
+        "name": "Mathematics",
+        "code": "MAAMMPMPM",
+        "part_time": "2 years",
+        "full_time": "12 months",
+        "departments": [
+            "Faculty of Mathematics",
+            "Department of Applied Mathematics and Theoretical Physics",
+            "Department of Pure Mathematics and Mathematical Statistics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/maammpmpm",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Medical Science (MRC Cognition and Brain Sciences Unit)",
+        "name": "Medical Science (MRC Cognition and Brain Sciences Unit)",
+        "code": "CVBSMPBSC",
+        "part_time": "2 years",
+        "full_time": "12 months",
+        "departments": [
+            "MRC Cognition and Brain Sciences Unit"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvbsmpbsc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Medical Science (MRC Cognition and Brain Sciences Unit)",
+        "name": "Medical Science (MRC Cognition and Brain Sciences Unit)",
+        "code": "CVBSPDBSC",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "MRC Cognition and Brain Sciences Unit"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvbspdbsc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Nuclear Energy Futures (EPSRC CDT)",
+        "name": "Nuclear Energy Futures (EPSRC CDT)",
+        "code": "EAESPDNEF",
+        "part_time": "4-7 years",
+        "full_time": "4 years",
+        "departments": [
+            "Department of Earth Sciences",
+            "Department of Materials Science and Metallurgy",
+            "Department of Engineering"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/eaespdnef",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Philosophy",
+        "name": "Philosophy",
+        "code": "PHPHMPPHI",
+        "part_time": "",
+        "full_time": "9 months",
+        "departments": [
+            "Faculty of Philosophy"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/phphmpphi",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "t"
+    },
+    {
+        "full_name": "EPSRC CDT MRes + PhD in Photonic and Electronic Systems",
+        "name": "Photonic and Electronic Systems",
+        "code": "EGEGPDELE",
+        "part_time": "",
+        "full_time": "1+3 years",
+        "departments": [
+            "Department of Engineering"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MRes",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegpdele",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "EPSRC CDT",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "MPhil in Physics",
+        "name": "Physics",
+        "code": "PCPHMPPHY",
+        "part_time": "2 years",
+        "full_time": "12 months",
+        "departments": [
+            "Department of Physics"
+        ],
+        "qualification": "MPhil",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/pcphmpphy",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Politics and International Studies",
+        "name": "Politics and International Studies",
+        "code": "POPIPDPIS",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Politics and International Studies"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/popipdpis",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "EPSRC CDT MRes + PhD in Sensor Technologies and Applications",
+        "name": "Sensor Technologies and Applications",
+        "code": "EGCEPDSTA",
+        "part_time": "",
+        "full_time": "1+3 years",
+        "departments": [
+            "Department of Chemical Engineering and Biotechnology"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MRes",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egcepdsta",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "EPSRC CDT",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Social Anthropology",
+        "name": "Social Anthropology",
+        "code": "AASAPDSAP",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Social Anthropology"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aasapdsap",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Sociology",
+        "name": "Sociology",
+        "code": "AASOPDSOC",
+        "part_time": "4-7 years",
+        "full_time": "3-4 years",
+        "departments": [
+            "Department of Sociology"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/aasopdsoc",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "Wellcome Trust MRes + PhD in Stem Cell Biology",
+        "name": "Stem Cell Biology",
+        "code": "BLSCPDSCB",
+        "part_time": "",
+        "full_time": "1+3 years",
+        "departments": [
+            "Wellcome - Medical Research Council Cambridge Stem Cell Institute"
+        ],
+        "qualification": "PhD",
+        "first_instance": "MRes",
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blscpdscb",
+        "open": false,
+        "closed": true,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "Wellcome Trust",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "PhD in Stem Cell Biology",
+        "name": "Stem Cell Biology",
+        "code": "BLSCPDSCP",
+        "part_time": "4-7 years",
+        "full_time": "4 years",
+        "departments": [
+            "Wellcome - Medical Research Council Cambridge Stem Cell Institute"
+        ],
+        "qualification": "PhD",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/blscpdscp",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Doctoral",
+        "funded_programme": "",
+        "study_mode": "r"
+    },
+    {
+        "full_name": "Master of Surgery ",
+        "name": "Surgery ",
+        "code": "CVSGMSSUR",
+        "part_time": "2 - 4 years",
+        "full_time": "",
+        "departments": [
+            "Department of Surgery"
+        ],
+        "qualification": "MCHIR",
+        "first_instance": null,
+        "prospectus_url": "http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/cvsgmssur",
+        "open": true,
+        "closed": false,
+        "taught_research_balance": "Predominantly Research",
+        "qualification_type": "Master's",
+        "funded_programme": "",
+        "study_mode": "r"
+    }
+]
